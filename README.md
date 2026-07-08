@@ -1,4 +1,4 @@
-# Fraud Detection — Credit Card Transactions
+# Fraud detection for credit card transactions
 
 End-to-end fraud detection on highly imbalanced transaction data — model comparison, cost-sensitive threshold selection, and a deployable FastAPI + Docker service.
 
