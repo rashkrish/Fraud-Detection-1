@@ -28,6 +28,7 @@ jupyter notebook notebooks/fraud_detection.ipynb
 
 ## Limitations
 
-- Features are PCA-anonymized — limited interpretability
-- Static historical dataset — no concept drift handling
-- Cost matrix values are illustrative, not real business figures
+- Features are PCA-anonymized, limiting interpretability of individual drivers.
+- Single static historical dataset. Thus, no concept drift handling.
+- Cost matrix values are illustrative and are not derived from real business figures.
+
